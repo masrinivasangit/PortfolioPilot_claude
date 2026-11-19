@@ -1,0 +1,16 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Backtest outputs and secrets
+src/main/python/portfoliopilot/reports/
+tests/test_out/
+*.env
